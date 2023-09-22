@@ -24,3 +24,4 @@ this is ordered list
 3. Third Item
 
 [Nick Mason Sauceful Secrets](https://premier.ticketek.com.au/shows/show.aspx?sh=NICKMASO23)
+![An image of a cat](http://placekitten.com/200/300)
