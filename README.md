@@ -10,3 +10,15 @@ I will submit quiz7 and go to the concert.
 
 **Bold director** or __Bold director__
 *what is Italic Text* or _Italic okay_
+
+
+This is unordered list
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+
+this is ordered list
+1. First Item
+2. Second Item
+3. Third Item
